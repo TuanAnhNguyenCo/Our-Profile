@@ -1,7 +1,7 @@
 
 #footer{
     display: flex;
-    padding:30px 200px;
+    padding:30px 0px;
     background-image: linear-gradient(to right,#40e0d0, #ff8c00, #ff0080);
     width: 100%;
 }
