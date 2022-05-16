@@ -15,9 +15,7 @@
     background-image: linear-gradient(to right,#FCA5F1,#B5FFFF);
     animation: Fade ease 3s;
 }
-.open{
-    display: block;
-}
+
 .main .photo{
     width: 150px;
     height: 190px;
