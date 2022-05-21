@@ -1,0 +1,55 @@
+*{
+margin: 0;
+}
+#main {
+
+}
+
+#home_page {
+    font-size: 14px;
+
+}
+.img {
+    width: 400px;
+    height: 42  0px;
+    float: left;
+
+    
+}
+
+.home_sub1 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+    text-align: center;
+}
+
+
+.home_sub {
+    display: block;
+    margin: 20px;
+    color:#333;
+    padding-top: 10px;
+    padding-left:  430px;
+    position: relative;
+}
+.home_sub2 {
+    margin: 20px;
+    color:#333;
+    padding-top: 10px;
+    padding-left: 50px;
+    display: flex;
+}
+.sub_icon {
+    padding-bottom: -10px;
+}
+
+.img_sub {
+    height: 30px;
+    width: 30px;
+    float: right;
+    border-radius: 50%;
+    margin-right: 430px;
+    margin-top: -45px;
+}
+
